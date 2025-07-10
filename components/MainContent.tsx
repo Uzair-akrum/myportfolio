@@ -9,7 +9,7 @@ export default function MainContent() {
       <div className="max-w-3xl mx-auto">
         <h1 className="text-5xl font-bold mb-4">
           Hello,<br />
-          I'm <span className="text-purple-400">Uzair</span> <span className="text-gray-400 text-2xl">/ˈsʊkə/</span>
+          I&apos;m <span className="text-purple-400">Uzair</span> <span className="text-gray-400 text-2xl">/ˈsʊkə/</span>
         </h1>
         <p className="mb-6">Full Stack Developer  / Blogger</p>
 
